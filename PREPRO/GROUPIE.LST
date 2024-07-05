@@ -1,0 +1,74 @@
+ Multi-Group and Multi-Band Parameters from ENDF/B Data (GROUPIE 2021-1)
+ ------------------------------------------------------------------------------
+ ENDF/B Input and Output Data Filenames
+ PREPRO21.OUT                                                            
+ GROUPIE.OUT                                                             
+ ------------------------------------------------------------------------------
+ Retrieval Criteria------------        MAT
+ Number of Energy Groups-------         28 (From Input)    
+ Maximum Number of Bands/Group-          0                             
+ Points in Weighting Spectrum--      16724 (Maxwellian-1/E-Fission-Constant)   
+ Band Selection Criteria------- .001000000 (No Longer Used)
+ Sigma-0 Definition------------ Multiple of Unshielded Total in Each Group
+ High E Cross Section Extension = Zero (ENDF Standard Definition)
+ ------------------------------------------------------------------------------
+ Self-Shielded Listing---------         No                         
+ Multi-Band Listing------------         No
+ Multi-Band Library File-------         No
+ Unshielded Averages in ENDF/B-        Yes (Histogram)     
+ Unshielded Averages Listing---        Yes (Cross Sections)        
+ Maxwellian Temperature-------- 2.5300E-02 eV
+ ------------------------------------------------------------------------------
+ Multi-Band Library Identification (no longer used)
+ ------------------------------------------------------------------------------
+ Groupie Test Run                                                        
+ ------------------------------------------------------------------------------
+ MAT/MF/MT Ranges
+ ------------------------------------------------------------------------------
+    Minimum       Maximum
+    MAT MF  MT    MAT MF  MT
+ ------------------------------------------------------------------------------
+      1  1   1   9999 99 999
+ ------------------------------------------------------------------------------
+ Group Energy Boundaries
+ ------------------------------------------------------------------------------
+   Energy-eV   Energy-eV   Energy-eV   Energy-eV   Energy-eV   Energy-eV
+ ------------------------------------------------------------------------------
+  .062500000  .215000000  .465000000  1.00000000  2.15000000  4.65000000
+  10.0000000  21.5000000  46.5000000  100.000000  215.000000  465.000000
+  1000.00000  2150.00000  4650.00000  10000.0000  21500.0000  46500.0000
+  100000.000  200000.000  400000.000  800000.000  1000000.00  1400000.00
+  2500000.00  3000000.00  4000000.00  6500000.00  10500000.0
+ ------------------------------------------------------------------------------
+ ENDF/B Tape Label
+ ------------------------------------------------------------------------------
+ Retrieved by E4-util: 2018/02/07,18:00:37                            1
+ ------------------------------------------------------------------------------
+ Isotope      MAT MF Fmt Kelvin      Total Elastic Capture Fission   Other
+                                    Points  Points  Points  Points  Points
+ ------------------------------------------------------------------------------
+ ------------------------------------------------------------------------------
+ Resonance Region for  22-Ti-46   
+ Resolved Resonance Region..... 1.00000E-5 to  363280.000 eV
+ Unresolved Resonance Region... NONE
+ WARNING - NO Unresolved Self-Shielding
+ ------------------------------------------------------------------------------
+ ------------------------------------------------------------------------------
+ 22-Ti-46    2225  3  6 0.0             37      53      75       0     699
+ WARNING....Minimum Total   in Above Material is  0.0        barns.
+ WARNING....Minimum Elastic in Above Material is  0.0        barns.
+ ------------------------------------------------------------------------------
+ All Cross Sections Read. Maximum Tabulated Energy =  20000000.0 eV
+ ------------------------------------------------------------------------------
+ ------------------------------------------------------------------------------
+ All Cross Sections Read. Maximum Tabulated Energy =  20000000.0 eV
+ ------------------------------------------------------------------------------
+ ------------------------------------------------------------------------------
+                           Totals       37      53      75       0     699
+ ------------------------------------------------------------------------------
+ Other Points = Points Other Than Total, Elastic, Capture or Fission.
+ This Will Always be Zero Unless Unshielded Output is Requested.
+ ------------------------------------------------------------------------------
+ ===============================================================================
+ GROUPIE  Total Execution Time                0.16 Seconds
+ ===============================================================================

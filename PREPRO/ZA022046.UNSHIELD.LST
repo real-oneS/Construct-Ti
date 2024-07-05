@@ -1,0 +1,174 @@
+                                                     MT=  1
+ MAT 2225                         0.0        Kelvin Unshielded Cross Sections                           22-Ti-46   
+
+   No.  Group-eV   Average      No.  Group-eV   Average      No.  Group-eV   Average      No.  Group-eV   Average
+
+    20 200000.000 .657827619     23 1000000.00 3.13599651     26 3000000.00 3.69385155     29 10500000.0
+    21 400000.000 3.00162322     24 1400000.00 3.53480485     27 4000000.00 3.47337054
+    22 800000.000 2.95645447     25 2500000.00 3.72776087     28 6500000.00 3.00117864
+ 
+                                                     MT=  2
+ MAT 2225                         0.0        Kelvin Unshielded Cross Sections                           22-Ti-46   
+
+   No.  Group-eV   Average      No.  Group-eV   Average      No.  Group-eV   Average      No.  Group-eV   Average
+
+    20 200000.000 .656090576     23 1000000.00 2.57463069     26 3000000.00 2.49489102     29 10500000.0
+    21 400000.000 2.99427434     24 1400000.00 2.68027675     27 4000000.00 2.10997839
+    22 800000.000 2.85489077     25 2500000.00 2.71079839     28 6500000.00 1.53861964
+ 
+                                                     MT=  4
+ MAT 2225                         0.0        Kelvin Unshielded Cross Sections                           22-Ti-46   
+
+   No.  Group-eV   Average      No.  Group-eV   Average      No.  Group-eV   Average      No.  Group-eV   Average
+
+    22 800000.000 .094104391     24 1400000.00 .852437829     26 3000000.00 1.18868411     28 6500000.00 1.21424920
+    23 1000000.00 .558756201     25 2500000.00 1.01366213     27 4000000.00 1.29618951     29 10500000.0
+ 
+                                                     MT= 16
+ MAT 2225                         0.0        Kelvin Unshielded Cross Sections                           22-Ti-46   
+
+   No.  Group-eV   Average      No.  Group-eV   Average      No.  Group-eV   Average      No.  Group-eV   Average
+
+    28 6500000.00 0.0            29 10500000.0
+ 
+                                                     MT= 22
+ MAT 2225                         0.0        Kelvin Unshielded Cross Sections                           22-Ti-46   
+
+   No.  Group-eV   Average      No.  Group-eV   Average      No.  Group-eV   Average      No.  Group-eV   Average
+
+    28 6500000.00 2.24131E-7     29 10500000.0
+ 
+                                                     MT= 28
+ MAT 2225                         0.0        Kelvin Unshielded Cross Sections                           22-Ti-46   
+
+   No.  Group-eV   Average      No.  Group-eV   Average      No.  Group-eV   Average      No.  Group-eV   Average
+
+    28 6500000.00 0.0            29 10500000.0
+ 
+                                                     MT= 51
+ MAT 2225                         0.0        Kelvin Unshielded Cross Sections                           22-Ti-46   
+
+   No.  Group-eV   Average      No.  Group-eV   Average      No.  Group-eV   Average      No.  Group-eV   Average
+
+    22 800000.000 .094104391     24 1400000.00 .842837946     26 3000000.00 .660502042     28 6500000.00 .177998205
+    23 1000000.00 .558756201     25 2500000.00 .904062521     27 4000000.00 .314598025     29 10500000.0
+ 
+                                                     MT= 52
+ MAT 2225                         0.0        Kelvin Unshielded Cross Sections                           22-Ti-46   
+
+   No.  Group-eV   Average      No.  Group-eV   Average      No.  Group-eV   Average      No.  Group-eV   Average
+
+    24 1400000.00 .009637140     26 3000000.00 .132162906     28 6500000.00 .019053177
+    25 2500000.00 .094516730     27 4000000.00 .061177775     29 10500000.0
+ 
+                                                     MT= 53
+ MAT 2225                         0.0        Kelvin Unshielded Cross Sections                           22-Ti-46   
+
+   No.  Group-eV   Average      No.  Group-eV   Average      No.  Group-eV   Average      No.  Group-eV   Average
+
+    25 2500000.00 .015231755     27 4000000.00 .022771258     29 10500000.0
+    26 3000000.00 .050781336     28 6500000.00 .002179046
+ 
+                                                     MT= 54
+ MAT 2225                         0.0        Kelvin Unshielded Cross Sections                           22-Ti-46   
+
+   No.  Group-eV   Average      No.  Group-eV   Average      No.  Group-eV   Average      No.  Group-eV   Average
+
+    26 3000000.00 .100597250     27 4000000.00 .058449375     28 6500000.00 .009338397     29 10500000.0
+ 
+                                                     MT= 55
+ MAT 2225                         0.0        Kelvin Unshielded Cross Sections                           22-Ti-46   
+
+   No.  Group-eV   Average      No.  Group-eV   Average      No.  Group-eV   Average      No.  Group-eV   Average
+
+    26 3000000.00 .044308853     27 4000000.00 .045716911     28 6500000.00 .015161780     29 10500000.0
+ 
+                                                     MT= 56
+ MAT 2225                         0.0        Kelvin Unshielded Cross Sections                           22-Ti-46   
+
+   No.  Group-eV   Average      No.  Group-eV   Average      No.  Group-eV   Average      No.  Group-eV   Average
+
+    26 3000000.00 .037817721     27 4000000.00 .037325905     28 6500000.00 .005341036     29 10500000.0
+ 
+                                                     MT= 57
+ MAT 2225                         0.0        Kelvin Unshielded Cross Sections                           22-Ti-46   
+
+   No.  Group-eV   Average      No.  Group-eV   Average      No.  Group-eV   Average      No.  Group-eV   Average
+
+    26 3000000.00 .013498390     27 4000000.00 .015640789     28 6500000.00 .002059379     29 10500000.0
+ 
+                                                     MT= 58
+ MAT 2225                         0.0        Kelvin Unshielded Cross Sections                           22-Ti-46   
+
+   No.  Group-eV   Average      No.  Group-eV   Average      No.  Group-eV   Average      No.  Group-eV   Average
+
+    26 3000000.00 .041855331     27 4000000.00 .047255247     28 6500000.00 .007760729     29 10500000.0
+ 
+                                                     MT= 59
+ MAT 2225                         0.0        Kelvin Unshielded Cross Sections                           22-Ti-46   
+
+   No.  Group-eV   Average      No.  Group-eV   Average      No.  Group-eV   Average      No.  Group-eV   Average
+
+    26 3000000.00 4.40248E-4     27 4000000.00 .002719288     28 6500000.00 .001552267     29 10500000.0
+ 
+                                                     MT= 91
+ MAT 2225                         0.0        Kelvin Unshielded Cross Sections                           22-Ti-46   
+
+   No.  Group-eV   Average      No.  Group-eV   Average      No.  Group-eV   Average      No.  Group-eV   Average
+
+    26 3000000.00 .106781293     27 4000000.00 .690262262     28 6500000.00 .973438979     29 10500000.0
+ 
+                                                     MT=102
+ MAT 2225                         0.0        Kelvin Unshielded Cross Sections                           22-Ti-46   
+
+   No.  Group-eV   Average      No.  Group-eV   Average      No.  Group-eV   Average      No.  Group-eV   Average
+
+    20 200000.000 .001737046     23 1000000.00 .003097165     26 3000000.00 .001906517     29 10500000.0
+    21 400000.000 .007349173     24 1400000.00 .002700434     27 4000000.00 9.00546E-4
+    22 800000.000 .005555657     25 2500000.00 .002658140     28 6500000.00 7.85673E-4
+ 
+                                                     MT=103
+ MAT 2225                         0.0        Kelvin Unshielded Cross Sections                           22-Ti-46   
+
+   No.  Group-eV   Average      No.  Group-eV   Average      No.  Group-eV   Average      No.  Group-eV   Average
+
+    24 1400000.00 8.06249E-5     26 3000000.00 .007969144     28 6500000.00 .201769202
+    25 2500000.00 6.36961E-4     27 4000000.00 .061808111     29 10500000.0
+ 
+                                                     MT=104
+ MAT 2225                         0.0        Kelvin Unshielded Cross Sections                           22-Ti-46   
+
+   No.  Group-eV   Average      No.  Group-eV   Average      No.  Group-eV   Average      No.  Group-eV   Average
+
+    28 6500000.00 4.05087E-7     29 10500000.0
+ 
+                                                     MT=105
+ MAT 2225                         0.0        Kelvin Unshielded Cross Sections                           22-Ti-46   
+
+   No.  Group-eV   Average      No.  Group-eV   Average      No.  Group-eV   Average      No.  Group-eV   Average
+
+    28 6500000.00 0.0            29 10500000.0
+ 
+                                                     MT=106
+ MAT 2225                         0.0        Kelvin Unshielded Cross Sections                           22-Ti-46   
+
+   No.  Group-eV   Average      No.  Group-eV   Average      No.  Group-eV   Average      No.  Group-eV   Average
+
+    28 6500000.00 0.0            29 10500000.0
+ 
+                                                     MT=107
+ MAT 2225                         0.0        Kelvin Unshielded Cross Sections                           22-Ti-46   
+
+   No.  Group-eV   Average      No.  Group-eV   Average      No.  Group-eV   Average      No.  Group-eV   Average
+
+    20 200000.000 4.5753E-11     23 1000000.00 1.04667E-8     26 3000000.00 9.44588E-5     29 10500000.0
+    21 400000.000 3.00274E-9     24 1400000.00 4.02824E-7     27 4000000.00 .004863734
+    22 800000.000 6.73921E-9     25 2500000.00 3.05946E-6     28 6500000.00 .044539479
+ 
+                                                     MT=111
+ MAT 2225                         0.0        Kelvin Unshielded Cross Sections                           22-Ti-46   
+
+   No.  Group-eV   Average      No.  Group-eV   Average      No.  Group-eV   Average      No.  Group-eV   Average
+
+    28 6500000.00 3.3382E-16     29 10500000.0
+ 
